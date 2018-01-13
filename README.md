@@ -1,2 +1,2 @@
 # hello-world
-Generic repository
+General repository
